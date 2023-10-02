@@ -42,6 +42,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Divyanshu975&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 
