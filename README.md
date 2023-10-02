@@ -50,6 +50,7 @@
   
 </div>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Divyanshu975&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=prateek2k2&theme=radical&no-frame=false&no-bg=false&margin-w=4)](url)
+
 
 ###
