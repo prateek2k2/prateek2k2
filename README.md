@@ -49,8 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek2k2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
   
 </div>
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=prateek2k2&theme=radical&no-frame=false&no-bg=false&margin-w=4)](url)
 
 
 ###
