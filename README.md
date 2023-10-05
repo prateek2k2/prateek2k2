@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prateek Raj and I'm a 3'RD year B.tech</h2>
+<h2 align="left">Hi 👋! My name is Prateek Raj and I'm a 3'RD year B.tech Student</h2>
 
 ###
 
